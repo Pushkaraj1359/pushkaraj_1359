@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pushkaraj1359](https://github.com/Pushkaraj1359)
 
-- 💬 Ask me about **HTML , CSS , JAVASCRIPT, REACT , TYPESCRIPT , CORE-JAVA , FUNDAMENTAILS OF DSA ect.**
+- 💬 Ask me about **HTML , CSS , JAVASCRIPT, REACT , TYPESCRIPT , CORE-JAVA , Python ,  FUNDAMENTAILS OF DSA ect.**
 
 - 📫 How to reach me **kulkarnipushkaraj61@gmail.com**
 
