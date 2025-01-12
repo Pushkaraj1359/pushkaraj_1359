@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm @Pushkaraj Kulkarni</h1>
-<h3 align="center">👀 I’m interested in Backend/Devops</h3>
+<h3 align="center">👀 I’m interested in Web-Dev/Backend best practices </h3>
 
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&pid=Api&P=0&h=180">
 
