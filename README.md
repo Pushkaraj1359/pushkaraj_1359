@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&pid=Api&P=0&h=180">
 
-- i knows the fundamentals of backend texh.. $$🌱 I’m currently learning **Backend technology**
+- i knows the fundamentals of DSA..🌱 I’m currently building a FileSystem.
 
 - 👯 I’m looking to collaborate on [testygo](https://in.search.yahoo.com/search?fr=mcafee&type=E210IN885G0&p=testygo)
 
