@@ -3,19 +3,16 @@
 
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&pid=Api&P=0&h=180">
 
-- i knows the fundamentals of DSA..🌱 I’m currently building a FileSystem.
+- i knows the fundamentals of DSA..
+- 🌱 I’m currently building a FileSystem.
 
-- 👯 I’m looking to collaborate on [testygo](https://in.search.yahoo.com/search?fr=mcafee&type=E210IN885G0&p=testygo)
+- 👯 I’m currently collaborate to work with [testygo](https://in.search.yahoo.com/search?fr=mcafee&type=E210IN885G0&p=testygo)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pushkaraj1359](https://github.com/Pushkaraj1359)
 
 - 💬 Ask me about **HTML , CSS , JAVASCRIPT, REACT , TYPESCRIPT , CORE-JAVA , Python ,  FUNDAMENTAILS OF DSA ect.**
 
 - 📫 How to reach me **kulkarnipushkaraj61@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SOSgAzVcOZePJcVtygbQfmXfN7hPRR7_/view?usp=drivesdk](https://drive.google.com/file/d/1SOSgAzVcOZePJcVtygbQfmXfN7hPRR7_/view?usp=drivesdk)
-
-- ⚡ Fun fact **🧑‍💻🤞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
